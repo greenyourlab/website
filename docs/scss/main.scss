@@ -1,0 +1,51 @@
+$theme-colors: (
+  "primary": #1f612e,
+  "secondary": #1beb4b48
+);
+
+.ending-image{
+  height: 500px;
+  width: 100%; /* responsive */
+  background-image: url('../images/4.png');
+  background-size: cover;
+  background-position: 100% 50%;
+}
+
+
+.main-image{
+  height: 500px;
+  width: 100%; /* responsive */
+  background-image: url('../images/seaweed.jpeg');
+  background-size: cover;
+  background-position: 100% 0%;
+  opacity: 0.9
+}
+
+.top-text{
+  margin-top: -5%;
+}
+
+.about-image{
+  height: 500px;
+  width: 100%; /* responsive */
+  background-image: url('../images/2.png');
+  background-size: cover;
+  background-position: 100% 50%;
+}
+
+.container-fluid.full-width {
+  padding-left: 0;
+  padding-right: 0;
+  overflow-x: hidden;
+}
+
+h1, .h1 {
+  font-size: 4.5rem;
+}
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+
+h1, .h1 {
+  font-size: 4.5rem;
+}
