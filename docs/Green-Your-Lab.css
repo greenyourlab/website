@@ -13,7 +13,6 @@
 .u-section-1 .u-image-1 {
   min-height: 665px;
   pointer-events: auto;
-  background-image: url("images/GreenYourLab.jpg");
   background-position: 50% 50%;
 }
 
@@ -104,6 +103,11 @@
     width: 511px;
     margin-top: 59px;
     margin-right: -290px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-top: 0;
+    padding-bottom: 0;
   }
 
   .u-section-1 .u-text-1 {
@@ -251,7 +255,7 @@
 .u-section-2 .u-image-1 {
   min-height: 655px;
   pointer-events: auto;
-  background-image: linear-gradient(0deg, rgba(204,211,219,0.05), rgba(204,211,219,0.05)), url("images/backgroundGreenYourLab.jpg");
+  background-image: linear-gradient(0deg, rgba(204,211,219,0.05), rgba(204,211,219,0.05));
   background-position: 0% 50%;
 }
 
@@ -275,7 +279,7 @@
 .u-section-2 .u-image-2 {
   min-height: 655px;
   pointer-events: auto;
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.05), rgba(0,0,0,0.05)), url("images/ScienceLaboratoryExpert.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.05), rgba(0,0,0,0.05));
   background-position: 50% 50%;
 }
 
@@ -323,6 +327,10 @@
   .u-section-2 .u-image-2 {
     min-height: 722px;
     background-position: 55.49% 50%;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding: 0;
   }
 }
 
@@ -955,6 +963,7 @@
   .u-section-4 .u-container-layout-1 {
     padding-left: 38px;
     padding-right: 38px;
+    padding-bottom: 0;
   }
 
   .u-section-4 .u-layout-cell-1 {
@@ -1215,7 +1224,6 @@
 .u-section-5 .u-image-1 {
   min-height: 655px;
   pointer-events: auto;
-  background-image: url("images/contactGreenYourLab.jpg");
   background-position: 50% 50%;
 }
 
@@ -1259,7 +1267,6 @@
 }
 
 .u-section-5 .u-image-2 {
-  background-image: url("images/twitter.png");
   background-position: 50% 50%;
 }
 
@@ -1268,7 +1275,6 @@
 }
 
 .u-section-5 .u-image-3 {
-  background-image: url("images/facebook.png");
   background-position: 50% 50%;
 }
 
@@ -1277,7 +1283,6 @@
 }
 
 .u-section-5 .u-image-4 {
-  background-image: url("images/blogger.png");
   background-position: 50% 50%;
 }
 
