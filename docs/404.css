@@ -1,0 +1,125 @@
+.u-section-1 {
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-group-1 {
+  width: 800px;
+  min-height: 713px;
+  background-image: none;
+  height: auto;
+  margin: 58px auto 60px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 60px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  margin: 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 246px;
+  height: 248px;
+  margin: -212px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.6875rem;
+  font-weight: 700;
+  margin: 60px auto 0 0;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  border-style: none;
+  margin: 40px auto 0;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 44px auto 0;
+}
+
+.u-section-1 .u-search-1 {
+  width: 200px;
+  height: auto;
+  min-height: 38px;
+  margin: 23px auto 0;
+}
+
+.u-section-1 .u-search-icon-1 {
+  background-image: none;
+  font-size: 1.25rem;
+}
+
+.u-section-1 .u-search-input-1 {
+  font-size: 1.25rem;
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-group-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 {
+    min-height: 862px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 540px;
+    min-height: 757px;
+    margin-bottom: 47px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-right: -10px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 201px;
+    height: 201px;
+    margin-top: -178px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 73px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 {
+    min-height: 744px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: 1px;
+    margin-bottom: 1px;
+    min-height: 744px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: -38px;
+    margin-left: -23px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    align-self: center;
+  }
+}

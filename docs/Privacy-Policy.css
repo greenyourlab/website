@@ -41,4 +41,34 @@
   .u-section-1 .u-text-2 {
     width: 340px;
   }
+}.u-section-2 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-2 .u-image-1 {
+  width: 570px;
+  height: 300px;
+  margin: 100px auto;
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 484px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 540px;
+    height: 284px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 379px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 340px;
+    height: 179px;
+  }
 }
