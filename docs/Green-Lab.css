@@ -534,6 +534,9 @@
 }
 
 .u-section-3 .u-btn-2 {
+  text-align: left;
+  font-family: 'Open Sans',sans-serif;
+  font-size: 1rem;
   padding: 0;
 }
 
