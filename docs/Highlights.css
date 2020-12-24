@@ -426,7 +426,7 @@
 
 .u-section-3 .u-tab-item-1 {
   margin-top: 0;
-  margin-bottom: 5px;
+  margin-bottom: 0;
 }
 
 .u-section-3 .u-tab-link-1 {
@@ -438,7 +438,7 @@
 
 .u-section-3 .u-tab-item-2 {
   margin-top: 0;
-  margin-bottom: 0;
+  margin-bottom: 5px;
 }
 
 .u-section-3 .u-tab-link-2 {
@@ -471,6 +471,7 @@
 }
 
 .u-section-3 .u-btn-1 {
+  font-weight: 700;
   padding: 0;
 }
 
@@ -497,7 +498,6 @@
 }
 
 .u-section-3 .u-btn-2 {
-  font-weight: 700;
   padding: 0;
 }
 
