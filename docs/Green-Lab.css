@@ -667,11 +667,20 @@
 
 .u-section-3 .u-text-5 {
   line-height: 2.2;
+  font-weight: 700;
   margin: -209px -20px 0 190px;
 }
 
 .u-section-3 .u-btn-16 {
   font-weight: 700;
+  padding: 0;
+}
+
+.u-section-3 .u-btn-17 {
+  padding: 0;
+}
+
+.u-section-3 .u-btn-18 {
   padding: 0;
 }
 
@@ -697,16 +706,16 @@
   margin: -209px -20px 0 190px;
 }
 
-.u-section-3 .u-btn-17 {
+.u-section-3 .u-btn-19 {
   font-weight: 700;
   padding: 0;
 }
 
-.u-section-3 .u-btn-18 {
+.u-section-3 .u-btn-20 {
   padding: 0;
 }
 
-.u-section-3 .u-btn-19 {
+.u-section-3 .u-btn-21 {
   padding: 0;
 }
 
