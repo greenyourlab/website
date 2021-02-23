@@ -42,33 +42,42 @@
     width: 340px;
   }
 }.u-section-2 .u-sheet-1 {
-  min-height: 500px;
+  min-height: 450px;
 }
 
 .u-section-2 .u-image-1 {
-  width: 570px;
-  height: 300px;
-  margin: 100px auto;
+  width: 301px;
+  height: 320px;
+  margin: 47px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-image-1 {
+    width: 570px;
+    height: 570px;
+    margin-top: 100px;
+    margin-bottom: 33px;
+  }
 }
 
 @media (max-width: 767px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 484px;
+    min-height: 700px;
   }
 
   .u-section-2 .u-image-1 {
     width: 540px;
-    height: 284px;
+    height: 540px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 379px;
+    min-height: 500px;
   }
 
   .u-section-2 .u-image-1 {
     width: 340px;
-    height: 179px;
+    height: 320px;
   }
 }
