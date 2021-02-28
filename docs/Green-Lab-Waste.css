@@ -55,7 +55,7 @@
   grid-template-columns: calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px);
   grid-template-rows: auto;
   grid-gap: 10px 10px;
-  margin: -68px calc(((100% - 1140px) / 2) + -63px) 8px auto;
+  margin: -70px calc(((100% - 1140px) / 2) + -63px) 10px auto;
 }
 
 .u-section-1 .u-image-2 {
@@ -749,7 +749,6 @@
   .u-section-5 .u-text-1 {
     margin-left: 44px;
     margin-right: 44px;
-    width: auto;
   }
 
   .u-section-5 .u-text-2 {
@@ -1133,7 +1132,6 @@
   .u-section-8 .u-text-1 {
     margin-left: 44px;
     margin-right: 44px;
-    width: auto;
   }
 
   .u-section-8 .u-text-2 {

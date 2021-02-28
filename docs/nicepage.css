@@ -32178,7 +32178,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-footer .u-text-2 {
   width: 417px;
-  margin: -22px auto 23px;
+  margin: -23px auto 24px;
 }
 
 .u-footer .u-btn-2 {
@@ -32191,7 +32191,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-text-2 {
-    margin-top: -22px;
+    margin-top: -23px;
   }
 }
 @media (max-width: 991px) {
@@ -32225,8 +32225,6 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-footer .u-text-2 {
     width: 340px;
     margin-top: 18px;
-    margin-left: 0;
-    margin-right: 0;
   }
 }
 
