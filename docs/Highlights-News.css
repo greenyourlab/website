@@ -553,7 +553,7 @@
     margin-right: auto;
   }
 }.u-section-4 .u-sheet-1 {
-  min-height: 605px;
+  min-height: 2129px;
 }
 
 .u-section-4 .u-image-1 {
@@ -587,7 +587,7 @@
   font-size: 1.25rem;
   font-weight: 400;
   line-height: 1.6;
-  margin: 20px 0 80px;
+  margin: 20px 0 60px;
 }
 
 .u-section-4 .u-btn-2 {
@@ -607,6 +607,7 @@
 }
 
 .u-section-4 .u-btn-6 {
+  margin-top: 0;
   padding: 0;
 }
 
