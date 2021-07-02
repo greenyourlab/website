@@ -448,21 +448,10 @@
   min-height: 168px;
 }
 
-.u-section-7 .u-btn-1 {
-  border-style: none;
-  font-weight: 700;
-  font-size: 0.875rem;
-  letter-spacing: 1px;
-  background-image: none;
-  text-transform: uppercase;
-  align-self: center;
-  margin: 20px auto 0;
-}
-
 .u-section-7 .u-text-1 {
-  margin: 11px 0 20px;
+  margin: 20px 0;
 }
 
-.u-section-7 .u-btn-2 {
+.u-section-7 .u-btn-1 {
   padding: 0;
 }
