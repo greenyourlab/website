@@ -595,6 +595,7 @@
 }
 
 .u-section-4 .u-btn-3 {
+  margin-top: 0;
   padding: 0;
 }
 
@@ -603,11 +604,11 @@
 }
 
 .u-section-4 .u-btn-5 {
-  margin-top: 0;
   padding: 0;
 }
 
 .u-section-4 .u-btn-6 {
+  margin-top: 0;
   padding: 0;
 }
 
@@ -616,6 +617,10 @@
 }
 
 .u-section-4 .u-btn-8 {
+  padding: 0;
+}
+
+.u-section-4 .u-btn-9 {
   padding: 0;
 }
 

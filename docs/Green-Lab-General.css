@@ -434,7 +434,6 @@
 .u-section-3 .u-group-1 {
   width: 800px;
   min-height: 112px;
-  height: auto;
   margin: 55px auto 0;
 }
 
@@ -582,6 +581,10 @@
   font-weight: 400;
   line-height: 1.6;
   margin: 20px 0 80px;
+}
+
+.u-section-4 .u-btn-1 {
+  padding: 0;
 }
 
 @media (max-width: 1199px) {
