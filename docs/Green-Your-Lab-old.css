@@ -1,4 +1,4 @@
-.u-section-1 {
+ .u-section-1 {
   min-height: 665px;
 }
 
@@ -58,7 +58,7 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-1 {
+   .u-section-1 {
     min-height: 548px;
   }
 
@@ -88,7 +88,7 @@
 }
 
 @media (max-width: 991px) {
-  .u-section-1 {
+   .u-section-1 {
     min-height: 440px;
   }
 
@@ -136,7 +136,7 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-1 {
+   .u-section-1 {
     min-height: 950px;
   }
 
@@ -193,7 +193,7 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-1 {
+   .u-section-1 {
     min-height: 727px;
   }
 
@@ -241,7 +241,7 @@
   .u-section-1 .u-layout-cell-2 {
     min-height: 744px;
   }
-}.u-section-2 {
+} .u-section-2 {
   min-height: 655px;
 }
 
@@ -287,7 +287,7 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-2 {
+   .u-section-2 {
     min-height: 672px;
   }
 
@@ -306,7 +306,7 @@
 }
 
 @media (max-width: 991px) {
-  .u-section-2 {
+   .u-section-2 {
     min-height: 722px;
   }
 
@@ -330,7 +330,7 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-2 {
+   .u-section-2 {
     min-height: 1211px;
   }
 
@@ -351,7 +351,7 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-2 {
+   .u-section-2 {
     min-height: 917px;
   }
 
@@ -367,7 +367,7 @@
     min-height: 386px;
     background-position: 76.23% 50%;
   }
-}.u-section-3 {
+} .u-section-3 {
   background-image: none;
 }
 
@@ -714,7 +714,7 @@
   .u-section-3 .u-text-8 {
     font-size: 1.125rem;
   }
-}.u-section-4 {
+} .u-section-4 {
   background-image: none;
 }
 
@@ -1205,7 +1205,7 @@
     margin-top: 20px;
     margin-bottom: 38px;
   }
-}.u-section-5 {
+} .u-section-5 {
   min-height: 655px;
 }
 
@@ -1289,7 +1289,7 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-5 {
+   .u-section-5 {
     min-height: 587px;
   }
 
@@ -1327,7 +1327,7 @@
 }
 
 @media (max-width: 991px) {
-  .u-section-5 {
+   .u-section-5 {
     min-height: 621px;
   }
 
@@ -1370,7 +1370,7 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-5 {
+   .u-section-5 {
     min-height: 977px;
   }
 
@@ -1434,7 +1434,7 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-5 {
+   .u-section-5 {
     min-height: 808px;
   }
 

@@ -1,4 +1,4 @@
-.u-section-1 {
+ .u-section-1 {
   min-height: 667px;
 }
 
@@ -93,7 +93,7 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-1 {
+   .u-section-1 {
     min-height: 653px;
   }
 
@@ -131,7 +131,7 @@
 }
 
 @media (max-width: 991px) {
-  .u-section-1 {
+   .u-section-1 {
     min-height: 442px;
   }
 
@@ -199,7 +199,7 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-1 {
+   .u-section-1 {
     min-height: 983px;
   }
 
@@ -261,7 +261,7 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-1 {
+   .u-section-1 {
     min-height: 581px;
   }
 
@@ -313,7 +313,7 @@
     margin-top: -97px;
     margin-bottom: 16px;
   }
-}.u-section-2 {
+} .u-section-2 {
   background-image: linear-gradient(0deg, rgba(41,51,50,0.9), rgba(41,51,50,0.9)), url("images/Green-Lab.jpg");
   background-position: 50% 26.51%;
 }
@@ -562,7 +562,7 @@
   .u-section-2 .u-image-3 {
     min-height: 374px;
   }
-}.u-section-3 {
+} .u-section-3 {
   background-image: url("images/GreenYourLabNetwork.png");
 }
 
@@ -686,7 +686,7 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-3 {
+   .u-section-3 {
     background-position: 49.54% 100%;
   }
 
@@ -719,7 +719,7 @@
 }
 
 @media (max-width: 991px) {
-  .u-section-3 {
+   .u-section-3 {
     background-position: 34.92% 100%;
   }
 
@@ -756,7 +756,7 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-3 {
+   .u-section-3 {
     background-position: 20.13% 100%;
   }
 
@@ -796,7 +796,7 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-3 {
+   .u-section-3 {
     background-position: 45.04% 50%;
   }
 
@@ -834,7 +834,7 @@
     margin-right: initial;
     margin-left: initial;
   }
-}.u-section-4 {
+} .u-section-4 {
   background-image: none;
 }
 
@@ -945,7 +945,7 @@
     margin-left: -15px;
     margin-right: -15px;
   }
-}.u-section-5 {
+} .u-section-5 {
   min-height: 363px;
 }
 
@@ -996,7 +996,7 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-5 {
+   .u-section-5 {
     min-height: 485px;
   }
 
@@ -1034,7 +1034,7 @@
 }
 
 @media (max-width: 991px) {
-  .u-section-5 {
+   .u-section-5 {
     min-height: 229px;
   }
 
@@ -1069,7 +1069,7 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-5 {
+   .u-section-5 {
     min-height: 761px;
   }
 
@@ -1109,7 +1109,7 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-5 {
+   .u-section-5 {
     min-height: 667px;
   }
 
