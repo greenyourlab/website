@@ -58,11 +58,14 @@
 
 .u-section-1 .u-list-1 {
   width: 234px;
-  min-height: 79px;
-  grid-template-columns: calc(33.3333% - 7px) calc(33.3333% - 7px) calc(33.3333% - 7px);
   grid-template-rows: auto;
-  grid-gap: 10px 10px;
   margin: -93px calc(((100% - 1140px) / 2) + -64px) 14px auto;
+}
+
+.u-section-1 .u-repeater-1 {
+  grid-template-columns: calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px);
+  grid-gap: 10px 10px;
+  min-height: 79px;
 }
 
 .u-section-1 .u-image-2 {
@@ -123,7 +126,6 @@
   }
 
   .u-section-1 .u-list-1 {
-    min-height: 60px;
     height: auto;
     margin-right: calc(((100% - 940px) / 2));
     margin-bottom: 33px;
@@ -175,11 +177,14 @@
 
   .u-section-1 .u-list-1 {
     width: calc(((100% - 720px) / 2) + 175px);
-    grid-template-columns: 33.3333% 33.3333% 33.3333%;
-    grid-gap: 0px 0px;
     margin-top: -72px;
     margin-right: 0;
     margin-bottom: 12px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: 33.3333% 33.3333% 33.3333%;
+    grid-gap: 0px 0px;
   }
 
   .u-section-1 .u-container-layout-4 {
@@ -251,12 +256,14 @@
 
   .u-section-1 .u-list-1 {
     width: 250px;
-    min-height: 135px;
-    grid-template-columns: calc(33.3333% - 5.33333px) calc(33.3333% - 5.33333px) calc(33.3333% - 5.33333px);
-    grid-gap: 8px 8px;
     margin-top: -135px;
     margin-right: auto;
     margin-bottom: 1px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: calc(33.3333% - 5.33333px) calc(33.3333% - 5.33333px) calc(33.3333% - 5.33333px);
+    grid-gap: 8px 8px;
   }
 }
 
@@ -309,7 +316,6 @@
   }
 
   .u-section-1 .u-list-1 {
-    min-height: 75px;
     margin-top: -97px;
     margin-bottom: 16px;
   }
@@ -419,10 +425,6 @@
     min-height: 553px;
   }
 
-  .u-section-2 .u-layout-wrap-1 {
-    min-height: 258px;
-  }
-
   .u-section-2 .u-image-1 {
     min-height: 225px;
   }
@@ -492,10 +494,6 @@
     min-height: 1438px;
   }
 
-  .u-section-2 .u-layout-wrap-1 {
-    min-height: 903px;
-  }
-
   .u-section-2 .u-image-1 {
     min-height: 518px;
   }
@@ -547,10 +545,6 @@
     font-size: 2.25rem;
   }
 
-  .u-section-2 .u-layout-wrap-1 {
-    min-height: 474px;
-  }
-
   .u-section-2 .u-image-1 {
     min-height: 326px;
   }
@@ -564,6 +558,7 @@
   }
 } .u-section-3 {
   background-image: url("images/GreenYourLabNetwork.png");
+  background-position: 50% 50%;
 }
 
 .u-section-3 .u-sheet-1 {
@@ -592,17 +587,24 @@
 }
 
 .u-section-3 .u-btn-1 {
-  font-weight: 700;
   font-size: 1.875rem;
+  letter-spacing: 1px;
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  background-image: none;
   margin: 330px auto 0;
 }
 
 .u-section-3 .u-list-1 {
-  min-height: 268px;
-  grid-template-columns: 25% 25% 25% 25%;
-  grid-gap: 0px 0px;
   width: 1090px;
   margin: -411px auto 60px;
+}
+
+.u-section-3 .u-repeater-1 {
+  grid-template-columns: 25% 25% 25% 25%;
+  grid-gap: 0px 0px;
+  min-height: 268px;
 }
 
 .u-section-3 .u-list-item-1 {
@@ -711,7 +713,6 @@
   }
 
   .u-section-3 .u-list-1 {
-    min-height: 221px;
     height: auto;
     width: 940px;
     margin-top: -458px;
@@ -746,12 +747,14 @@
   }
 
   .u-section-3 .u-list-1 {
-    min-height: 464px;
-    grid-template-columns: 50% 50%;
     margin-top: -620px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
+  }
+
+  .u-section-3 .u-repeater-1 {
+    grid-template-columns: 50% 50%;
   }
 }
 
@@ -786,12 +789,14 @@
   }
 
   .u-section-3 .u-list-1 {
-    min-height: 820px;
-    grid-template-columns: 100%;
     margin-top: -991px;
     width: auto;
     margin-right: initial;
     margin-left: initial;
+  }
+
+  .u-section-3 .u-repeater-1 {
+    grid-template-columns: 100%;
   }
 }
 
@@ -828,7 +833,6 @@
   }
 
   .u-section-3 .u-list-1 {
-    min-height: 836px;
     margin-top: -999px;
     width: auto;
     margin-right: initial;
