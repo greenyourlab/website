@@ -12,7 +12,7 @@
 .u-section-1 .u-image-1 {
   min-height: 667px;
   pointer-events: auto;
-  background-image: url("images/GreenYourLab.jpg");
+  background-image: url("images/GreenYourLab-23.jpg");
   background-position: 50% 50%;
 }
 
@@ -59,7 +59,7 @@
 .u-section-1 .u-list-1 {
   width: 234px;
   grid-template-rows: auto;
-  margin: -93px calc(((100% - 1140px) / 2) + -64px) 14px auto;
+  margin: -93px calc(((100% - 1140px) / 2) + -32px) 14px auto;
 }
 
 .u-section-1 .u-repeater-1 {
@@ -961,7 +961,7 @@
 .u-section-5 .u-image-1 {
   min-height: 363px;
   pointer-events: auto;
-  background-image: url("images/contactGreenYourLab.jpg");
+  background-image: url("images/contactGreenYourLab-25.jpg");
   background-position: 50% 13.83%;
 }
 
