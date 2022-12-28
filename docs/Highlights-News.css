@@ -12,7 +12,7 @@
 .u-section-1 .u-image-1 {
   min-height: 378px;
   pointer-events: auto;
-  background-image: url("images/GreenYourLab-54.jpg");
+  background-image: url("images/GreenYourLab.jpg");
   background-position: 50% 50%;
 }
 
@@ -555,7 +555,7 @@
     margin-right: auto;
   }
 }.u-section-4 .u-sheet-1 {
-  min-height: 1697px;
+  min-height: 4161px;
 }
 
 .u-section-4 .u-image-1 {
@@ -589,7 +589,7 @@
   font-size: 1.25rem;
   line-height: 1.6;
   background-image: none;
-  font-weight: normal;
+  font-weight: 700;
   margin: 20px 0 0;
 }
 
@@ -614,6 +614,106 @@
 }
 
 .u-section-4 .u-btn-6 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-4 .u-btn-7 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-4 .u-btn-8 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-4 .u-btn-9 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-4 .u-btn-10 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-4 .u-btn-11 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-4 .u-btn-12 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-4 .u-btn-13 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-4 .u-btn-14 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-4 .u-btn-15 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-4 .u-btn-16 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-4 .u-btn-17 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-4 .u-btn-18 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-4 .u-btn-19 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-4 .u-btn-20 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-4 .u-btn-21 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-4 .u-btn-22 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-4 .u-btn-23 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-4 .u-btn-24 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-4 .u-btn-25 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-4 .u-btn-26 {
   background-image: none;
   padding: 0;
 }
@@ -755,28 +855,31 @@
 }
 
 .u-section-6 .u-btn-1 {
+  background-image: none;
   padding: 0;
 }
 
 .u-section-6 .u-btn-2 {
-  margin-top: 0;
   padding: 0;
 }
 
 .u-section-6 .u-btn-3 {
+  background-image: none;
   padding: 0;
 }
 
 .u-section-6 .u-btn-4 {
+  background-image: none;
   padding: 0;
 }
 
 .u-section-6 .u-btn-5 {
-  margin-top: 0;
+  background-image: none;
   padding: 0;
 }
 
 .u-section-6 .u-btn-6 {
+  margin-top: 0;
   padding: 0;
 }
 
@@ -785,6 +888,28 @@
 }
 
 .u-section-6 .u-btn-8 {
+  padding: 0;
+}
+
+.u-section-6 .u-btn-9 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-6 .u-btn-10 {
+  margin-top: 0;
+  padding: 0;
+}
+
+.u-section-6 .u-btn-11 {
+  padding: 0;
+}
+
+.u-section-6 .u-btn-12 {
+  padding: 0;
+}
+
+.u-section-6 .u-btn-13 {
   padding: 0;
 }
 
